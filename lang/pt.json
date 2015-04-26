@@ -4,19 +4,19 @@
     "datarestored": "Dados armazenados anteriormente recuperados com êxito.",
     "greyuser": "Apenas Seguranças ou superiores podem usar o chatbot.",
     "bouncer": "O chatbot não pode mover pessoas na fila de espera quando usado por um bouncer.",
-    "online": "/me %%BOTNAME%% v%%VERSION%% online!",
+    "online": "/me %%BOTNAME%% v%%VERSION%% ESTA DE OLHO EM VOCÊ!",
 
 
-    "welcome": "Bem vindo(a), %%NAME%%",
-    "welcomeback": "Bem vindo(a) de volta, %%NAME%%",
-    "songknown": "@%%NAME%%, essa música está no histórico.",
-    "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
+    "welcome": "Seje Welcomido(a), %%NAME%%, Amorzinho <3 Leia nossas regras para não fazer nenhuma besteira. > http://goo.gl/5vJzy8",
+    "welcomeback": "Seje welcomido(a) de volta, %%NAME%%, sentimos saudades <3",
+    "songknown": "@%%NAME%%, Essa musica ta no historico anta. Vou te pulei",
+    "timelimit": "@%%NAME%%, sua música tem duração maior que o limite permitido (%%MAXLENGTH%% minutos).",
     "permissionownsong": "/me :up: @%%NAME%% tem permissão para tocar música de própria autoria!",
     "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
 
 
-    "isopen": "/me A roleta foi iniciada! Use !join para participar!",
-    "winnerpicked": "/me Um vencedor foi escolhido! @%%NAME%% ganhou a posição %%POSITION%%.",
+    "isopen": "/me RODA A RODA!, ROLETA DO TIO CROODIIZ !join para explodir algo!",
+    "winnerpicked": "/me O viadão do @%%NAME%% ganhou a posição %%POSITION%% na roleta do tio croodiiz.",
     
     "ball": "/me A pergunta de %%NAME%% foi: \"%%QUESTION%%\" e a resposta de %%BOTNAME%% é: \"%%RESPONSE%%\"",
     "notghosting": "[%%NAME1%%] %%NAME2%% não virou fantasma.",
@@ -27,15 +27,15 @@
 
 
     "usernotfound": "/me Usuário não encontrado.",
-    "notdisconnected": "/me @%%NAME%% não tem se desconectado durante meu tempo aqui.",
+    "notdisconnected": "/me @%%NAME%% você não saiu enquando eu dava minha bundinha aqui.",
     "noposition": "/me Última posição não reconhecida. A fila de espera precisa ser atualizada pelo menos uma vez para registrar posições.",
     "toolongago": "/me @%%NAME%%'s desconectou-se a muito tempo atrás: %%TIME%%.",
     "valid": "/me @%%NAME%% desconectou-se %%TIME%% atrás e deve ter posição %%POSITION%%.",
 
 
-    "warning1": "@%%NAME%%, você esteve inativo por %%TIME%%, responda dentro de 2 minutos ou você será removido da fila de espera.",
-    "warning2": "@%%NAME%%, você será removido em breve por inatividade se não responder.",
-    "afkremove": "@%%NAME%%, você foi removido por estar inativo por %%TIME%%. Você teve a posição %%POSITION%%. Use o chat pelo menos uma vez em 1 hora se quiser tocar.",
+    "warning1": "@%%NAME%%, você esteve afk %%TIME%%, responda em 2 min ou você será removido da fila de espera.",
+    "warning2": "@%%NAME%%, responda! ultima chance!",
+    "afkremove": "@%%NAME%%, você foi removido por estar inativo.",
 
 
     "caps": "@%%NAME%%, desligue seu capslock, por favor.",
@@ -106,7 +106,7 @@
     "eta": "/me @%%NAME%% você tocará em aproximadamente %%TIME%%.",
     "facebook": "/me Curta nossa página no Facebook: %%LINK%%",
     "starterhelp": "/me Essa imagem te ajudará a usar e entender o plug.dj: %%LINK%%",
-    "roulettejoin": "/me @%%NAME%% entrou na roleta! (Use !leave para sair da mesma.)",
+    "roulettejoin": "/me O RETARDADO MENTAL DO @%%NAME%% ENTROU NA ROLETA DO TIO OSAMA! ( sefodeu.gif )",
     "jointime": "/me [@%%NAMEFROM%%] @%%USERNAME%% esteve na sala por %%TIME%%.",
     "kickrank": "/me [@%%NAME%%] Você não pode kickar alguém do mesmo rank ou superior!",
     "kick": "[@%%NAME%%], @%%USERNAME%% você está sendo kickado da comunidade por %%TIME%% minutos.",
