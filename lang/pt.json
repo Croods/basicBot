@@ -7,8 +7,8 @@
     "online": "/me %%BOTNAME%% v%%VERSION%% ESTA DE OLHO EM VOCÊ!",
 
 
-    "welcome": "Seje Welcomido(a), %%NAME%%, Amorzinho <3 Leia nossas regras para não fazer nenhuma besteira. > http://goo.gl/5vJzy8",
-    "welcomeback": "Seje welcomido(a) de volta, %%NAME%%, sentimos saudades <3",
+    "welcome": "Seje Welcomido(a), @%%NAME%%, Amorzinho <3 Leia nossas regras para não fazer nenhuma besteira. > http://goo.gl/5vJzy8",
+    "welcomeback": "Seje welcomido(a) de volta, @%%NAME%%, sentimos saudades <3",
     "songknown": "@%%NAME%%, Essa musica ta no historico anta. Vou te pulei",
     "timelimit": "@%%NAME%%, sua música tem duração maior que o limite permitido (%%MAXLENGTH%% minutos).",
     "permissionownsong": "/me :up: @%%NAME%% tem permissão para tocar música de própria autoria!",
